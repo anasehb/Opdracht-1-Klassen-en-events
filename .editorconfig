@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CA2208: Instancier les exceptions d'argument correctement
+dotnet_diagnostic.CA2208.severity = silent
